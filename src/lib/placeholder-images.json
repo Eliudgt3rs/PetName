@@ -1,3 +1,10 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-pets",
+      "description": "A cute dog and cat sitting together",
+      "imageUrl": "https://images.unsplash.com/photo-1546377791-2e01b4449bf0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZG9nJTIwY2F0fGVufDB8fHx8MTc1OTA1MjM5M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dog cat"
+    }
+  ]
 }
