@@ -154,7 +154,7 @@ export function PetNameForm({ form, onSubmit, isPending }: PetNameFormProps) {
               render={({ field }) => (
                 <FormItem className="flex flex-row items-center justify-between rounded-lg border p-3 shadow-sm bg-card">
                   <div className="space-y-0.5">
-                    <FormLabel className="flex items-center gap-2"><Sparkles className="h-4 w-4 text-accent"/>Go Premium</FormLabel>
+                    <FormLabel className="flex items-center gap-2"><Sparkles className="h-4 w-4 text-accent"/>Go Premium. It's FREE!</FormLabel>
                     <FormDescription>
                       Unlock unique names & styles.
                     </FormDescription>
